@@ -1,0 +1,2 @@
+# tenp.ac
+student/admin
